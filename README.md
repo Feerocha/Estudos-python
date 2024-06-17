@@ -1,4 +1,4 @@
-Projeto bancario desenvolvido atraves do BOOTCAMP na DIO
+Projeto bancario desenvolvido atraves do BOOTCAMP na DIO.
 
 Ele realiza a simulação de um sistema de contas. 
 Onde o usuario cria uma conta, realiza saques, depositos e etc.
